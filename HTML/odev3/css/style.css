@@ -1,0 +1,65 @@
+body {
+    background-color: #E0C9A9;
+}
+
+.header {
+    color: #5E2610;
+    font-style: italic;
+}
+
+.description {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.container {
+    width: 1000px;
+    margin: 0px auto;
+
+}
+
+.content {
+    margin-left: 20%;
+}
+
+.art-1 {
+    text-decoration: underline;
+}
+
+.liste {
+    list-style-type: none;
+}
+
+.liste li {
+    display: inline-flex;
+    margin-right: 14px;
+}
+
+.list-1 {
+    color: #983120;
+    font-weight: bold;
+}
+
+.head-1 {
+    background-color: #963102;
+    color: #fff;
+    border-radius: 10px;
+    display: inline;
+}
+
+.material-list li{
+    margin-bottom: 5px;
+}
+
+.recipe-list li {
+    margin-bottom: 5px;
+}
+
+footer{
+    letter-spacing: 2px;
+    color: #2C1504;
+}
+.footer-head{
+    margin-left: 50%;
+    font-weight:500;
+}
